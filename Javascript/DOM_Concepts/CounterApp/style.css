@@ -1,0 +1,21 @@
+/* Write your desired css here */
+html, body{
+    background-color:#34495E;
+    height:100%;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    border:2px solid grey;
+    width:200px;
+    margin:150px auto;
+    padding: 10px 10px 10px 10px;
+    background-color:#212F3C;
+    gap:15px;
+    align-items:center;
+}
+#count{
+    color:white;
+    text-align:center;
+}
