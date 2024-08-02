@@ -22,7 +22,7 @@ Temporal Dead Zone (TDZ):
     // VAR, LET & CONST Interview Questions
 
 // Question 1 : Variable Shadowing
-
+```
 function test() {
   let a = "Hello";
 
@@ -64,3 +64,4 @@ console.log(a, b, c);
 const c = 30;
 let b = 20;
 var a = 10;      
+```
